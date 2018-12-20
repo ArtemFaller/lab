@@ -6,5 +6,7 @@ file
 git
 helloworld
 info.txt
+info3.txt
 lab1_advanced.sh
+lab1_expert.sh
 lab1_novice.sh
