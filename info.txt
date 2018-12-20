@@ -1,2 +1,10 @@
-Faller Artem 18206
-
+HelloWorld
+HelloWorld
+crusoe.txt
+direct
+file
+git
+helloworld
+info.txt
+lab1_advanced.sh
+lab1_novice.sh
