@@ -8,5 +8,18 @@ total3=$[$1*$2]
 val0=""
 if [ $3 = $val0  ]
 then
-echo 1
+total=$ARITHMETIC_OP
+else
+if [ $3 = $val1 ]
+then
+echo $total1
+fi
+if [ $3 = $val2 ]
+then
+echo $total2
+fi
+if [ $3 = $val3 ]
+then
+echo $total3
+fi
 fi
